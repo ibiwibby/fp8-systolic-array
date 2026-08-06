@@ -1,0 +1,81 @@
+# Vivado generated project data
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.data/
+.Xil/
+build/
+
+# Vivado project and generated IP metadata
+*.xpr
+*.xise
+*.xci
+*.xcix
+*.bd
+*.bxml
+*.bda
+
+# Checkpoints, bitstreams, databases, and waveforms
+*.dcp
+*.bit
+*.bin
+*.ltx
+*.wdb
+*.wdf
+*.wcfg
+*.vcd
+*.saif
+*.pb
+*.rpx
+*.vdi
+*.vds
+*.lpr
+
+# Vivado/XSim logs and generated launch files
+*.jou
+*.log
+*.str
+*.xlog
+*.xmsgs
+*.os
+*.rst
+*.xml
+*.html
+*.js
+*.bat
+runme.sh
+ISEWrap.sh
+xsim.dir/
+xsim.ini
+webtalk*.xml
+
+# Compiled simulation artifacts
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.sdb
+*.rlx
+*.xdbg
+*.mem
+*.reloc
+*.rtti
+*.svtype
+
+# Local testbenches (not approved for publication)
+Lab5.srcs/sim_1/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
